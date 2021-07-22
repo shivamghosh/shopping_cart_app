@@ -1,0 +1,56 @@
+{
+  "electronics": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 13599900,
+      "imgName": "iPhone 12.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": 19999900,
+      "imgName": "Macbook Pro.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony Wireless Headphones",
+      "price": 2599900,
+      "imgName": "Sony Wireless Headphones.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sony Powerbank",
+      "price": 699900,
+      "imgName": "Sony Powerbank.jpg"
+    }
+  ],
+  "clothing": [
+    {
+      "id": 5,
+      "name": "T-Shirt",
+      "price": 99900,
+      "imgName": "T-Shirt.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jeans",
+      "price": 159900,
+      "imgName": "Jeans.jpg"
+    }
+  ],
+  "footwear": [
+    {
+      "id": 7,
+      "name": "Nike Running Shoes",
+      "price": 259900,
+      "imgName": "Nike Running Shoes.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jockey Socks",
+      "price": 89900,
+      "imgName": "Jockey Socks.png"
+    }
+  ]
+}
